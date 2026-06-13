@@ -117,19 +117,6 @@ BigBasket-EDA/
 │
 ├── BigBasket_EDA_Final_Portfolio.ipynb
 ├── README.md
-└── images/
-```
-
----
-
-## 🚀 Future Improvements
-
-* Build an interactive Power BI dashboard.
-* Perform SQL-based analysis.
-* Add advanced statistical analysis.
-* Create predictive models for pricing and ratings.
-
----
 
 ## 👨‍💻 Author
 
